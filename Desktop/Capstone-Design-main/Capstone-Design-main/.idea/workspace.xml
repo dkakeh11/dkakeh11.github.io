@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00306bea-7d91-47cf-98df-03b1ba1f0cec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/SecondActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/cap/Activity2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/layout/second_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/App/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kpvvkQvnfnTN2zx686bD8yefd2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\apps\Capstone-Design\App\app\src\main\res\layout" />
+      <recent name="C:\Users\USER\Desktop\apps\Capstone-Design\App\app\src\main\java\com\example\cap" />
+      <recent name="C:\Users\Public\projects\Capstone-Design\MachineLearning" />
+      <recent name="C:\Users\Public\projects\Capstone-Design\MachineLearning\res" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.openpose_squat">
+    <configuration name="OpenPoseSide" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Capstone-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/OpenPoseSide" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenPoseTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Capstone-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/OpenPoseTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenPoseTestSingle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Capstone-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/OpenPoseTestSingle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="openpose_squat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Capstone-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/openpose_squat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.OpenPoseSide" />
+      <item itemvalue="Python.OpenPoseTestSingle" />
+      <item itemvalue="Python.OpenPoseTest" />
+      <item itemvalue="Python.openpose_squat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.openpose_squat" />
+        <item itemvalue="Python.OpenPoseSide" />
+        <item itemvalue="Python.OpenPoseTestSingle" />
+        <item itemvalue="Python.OpenPoseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00306bea-7d91-47cf-98df-03b1ba1f0cec" name="Default Changelist" comment="" />
+      <created>1606284275887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606284275887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1606410602822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1606410602822" />
+  </component>
+</project>
